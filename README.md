@@ -2,15 +2,11 @@
 
 Flutter project to get country list
 
-## Getting Started
+Overview
+The Flutter Country App is a mobile application built using Flutter and GraphQL to fetch and display information about countries and their capitals.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Fetches data about countries and their capitals from a GraphQL API.
+Displays a list of countries and their capitals.
+Allows users to view details about specific countries.
+Supports navigation between different screens.
