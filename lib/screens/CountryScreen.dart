@@ -6,6 +6,7 @@ import 'package:graphql_flutter/graphql_flutter.dart';
 class CountryScreen extends StatelessWidget {
   final CountryService countryService;
 
+  //fetch country screen
   const CountryScreen({super.key, required this.countryService});
 
   @override
